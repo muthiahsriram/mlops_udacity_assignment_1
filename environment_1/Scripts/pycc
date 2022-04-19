@@ -1,0 +1,3 @@
+#!D:\MLOPS_udacity_assignment_1\environment_1\Scripts\python.exe
+from numba.pycc import main
+main()

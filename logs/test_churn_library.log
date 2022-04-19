@@ -1,0 +1,6 @@
+2022-04-19 20:08:04,438:INFO:churn_script_logging_and_tests :test_import:30 :Testing import_data: SUCCESS
+2022-04-19 20:08:05,724:INFO:churn_script_logging_and_tests :test_eda:51 :Testing perform_eda test1: SUCCESS
+2022-04-19 20:08:05,725:INFO:churn_script_logging_and_tests :test_eda:56 :Testing perform_eda test2 - images found: SUCCESS
+2022-04-19 20:08:06,101:INFO:churn_script_logging_and_tests :test_encoder_helper:79 :Testing encoder_helper: SUCCESS
+2022-04-19 20:08:06,487:INFO:churn_script_logging_and_tests :test_perform_feature_engineering:104 :Testing perform_feature_engineering: SUCCESS
+2022-04-19 20:08:23,237:INFO:churn_script_logging_and_tests :test_train_models:128 :Testing train_models: SUCCESS

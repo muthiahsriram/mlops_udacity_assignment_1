@@ -1,0 +1,14 @@
+root:2022-04-19 20:38:37,223:INFO:Successfully imported ./data/bank_data.csv
+root:2022-04-19 20:38:37,442:INFO:Successfully created churn histogram
+root:2022-04-19 20:38:37,583:INFO:Successfully created customer age histogram
+numexpr.utils:2022-04-19 20:38:37,599:INFO:NumExpr defaulting to 8 threads.
+root:2022-04-19 20:38:37,727:INFO:Successfully created marital status histogram
+root:2022-04-19 20:38:37,976:INFO:Successfully created marital status histogram
+root:2022-04-19 20:38:38,409:INFO:Successfully created heat map
+root:2022-04-19 20:38:38,409:INFO:Starting encoder helper
+root:2022-04-19 20:38:38,479:INFO:Successfully created new column-Gender_Churn
+root:2022-04-19 20:38:38,545:INFO:Successfully created new column-Education_Level_Churn
+root:2022-04-19 20:38:38,624:INFO:Successfully created new column-Marital_Status_Churn
+root:2022-04-19 20:38:38,693:INFO:Successfully created new column-Income_Category_Churn
+root:2022-04-19 20:38:38,756:INFO:Successfully created new column-Card_Category_Churn
+root:2022-04-19 20:38:55,167:INFO:SUCCESS: Train models done
